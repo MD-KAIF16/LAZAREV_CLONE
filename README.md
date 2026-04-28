@@ -1,4 +1,4 @@
-````md id="u8r2mk"
+
 # 🚀 LAZAREV_CLONE — Premium Animated Frontend Website Clone
 
 A premium frontend clone inspired by modern agency websites, built using **HTML, CSS, JavaScript, GSAP, ScrollTrigger, and Locomotive Scroll**.  
